@@ -1,163 +1,1303 @@
-#EXTM3U Albdroid TV
-#EXTINF:-1,PORTAL
-http://168.205.87.198:8555/live/1388/123456/82.ts
-#EXTINF:-1,AGRO BRASIL
-http://168.205.87.198:8555/live/1388/123456/7.ts
-#EXTINF:-1,AGRO CANAL
-http://168.205.87.198:8555/live/1388/123456/10.ts
-#EXTINF:-1,AGROMAIS
-http://168.205.87.198:8555/live/1388/123456/175.ts
-#EXTINF:-1,ALL SPORTS
-http://168.205.87.198:8555/live/1388/123456/148.ts
-#EXTINF:-1,AMERICA LATINO
-http://168.205.87.198:8555/live/1388/123456/16.ts
-#EXTINF:-1,ARTE1
-http://168.205.87.198:8555/live/1388/123456/170.ts
-#EXTINF:-1,BAND NEWS
-http://168.205.87.198:8555/live/1388/123456/174.ts
-#EXTINF:-1,BAND SPORTS
-http://168.205.87.198:8555/live/1388/123456/176.ts
-#EXTINF:-1,BAND
-http://168.205.87.198:8555/live/1388/123456/19.ts
-#EXTINF:-1,BOA VONTADE TV
-http://168.205.87.198:8555/live/1388/123456/21.ts
-#EXTINF:-1,BRA
-http://168.205.87.198:8555/live/1388/123456/24.ts
-#EXTINF:-1,BRSUPER TV
-http://168.205.87.198:8555/live/1388/123456/147.ts
-#EXTINF:-1,CANAL DO BOI
-http://168.205.87.198:8555/live/1388/123456/167.ts
-#EXTINF:-1,CANAL RURAL
-http://168.205.87.198:8555/live/1388/123456/166.ts
-#EXTINF:-1,CANAL SAÚDE
-http://168.205.87.198:8555/live/1388/123456/165.ts
-#EXTINF:-1,CANÇÃO NOVA
-http://168.205.87.198:8555/live/1388/123456/25.ts
-#EXTINF:-1,CHESPIRITO
-http://168.205.87.198:8555/live/1388/123456/159.ts
-#EXTINF:-1,CLASSIC HITS
-http://168.205.87.198:8555/live/1388/123456/27.ts
-#EXTINF:-1,CNN BRASIL
-http://168.205.87.198:8555/live/1388/123456/28.ts
-#EXTINF:-1,CNT
-http://168.205.87.198:8555/live/1388/123456/150.ts
-#EXTINF:-1,CULTURA
-http://168.205.87.198:8555/live/1388/123456/32.ts
-#EXTINF:-1,CULT
-http://168.205.87.198:8555/live/1388/123456/30.ts
-#EXTINF:-1,FASHION TV
-http://168.205.87.198:8555/live/1388/123456/61.ts
-#EXTINF:-1,FISH TV
-http://168.205.87.198:8555/live/1388/123456/62.ts
-#EXTINF:-1,FUTURA
-http://168.205.87.198:8555/live/1388/123456/67.ts
-#EXTINF:-1,GAZETA
-http://168.205.87.198:8555/live/1388/123456/69.ts
-#EXTINF:-1,GLOBO MINAS
-http://168.205.87.198:8555/live/1388/123456/70.ts
-#EXTINF:-1,HITTS
-http://168.205.87.198:8555/live/1388/123456/72.ts
-#EXTINF:-1,JP NEWS
-http://168.205.87.198:8555/live/1388/123456/161.ts
-#EXTINF:-1,KIDS
-http://168.205.87.198:8555/live/1388/123456/143.ts
-#EXTINF:-1,LOADING TV
-http://168.205.87.198:8555/live/1388/123456/142.ts
-#EXTINF:-1,MASTER TV
-http://168.205.87.198:8555/live/1388/123456/74.ts
-#EXTINF:-1,MEGA
-http://168.205.87.198:8555/live/1388/123456/75.ts
-#EXTINF:-1,NOVO TEMPO
-http://168.205.87.198:8555/live/1388/123456/149.ts
-#EXTINF:-1,ONDA OESTE
-http://168.205.87.198:8555/live/1388/123456/169.ts
-#EXTINF:-1,PAI ETERNO
-http://168.205.87.198:8555/live/1388/123456/144.ts
-#EXTINF:-1,POLISHOP
-http://168.205.87.198:8555/live/1388/123456/153.ts
-#EXTINF:-1,PRIME BOX
-http://168.205.87.198:8555/live/1388/123456/83.ts
-#EXTINF:-1,RATIMBUM
-http://168.205.87.198:8555/live/1388/123456/84.ts
-#EXTINF:-1,RECORD MINAS
-http://168.205.87.198:8555/live/1388/123456/96.ts
-#EXTINF:-1,RECORD NEWS
-http://168.205.87.198:8555/live/1388/123456/97.ts
-#EXTINF:-1,REDE FAMILIA
-http://168.205.87.198:8555/live/1388/123456/151.ts
-#EXTINF:-1,REDE GENESIS
-http://168.205.87.198:8555/live/1388/123456/98.ts
-#EXTINF:-1,REDE METROPOLE
-http://168.205.87.198:8555/live/1388/123456/99.ts
-#EXTINF:-1,REDE MINAS
-http://168.205.87.198:8555/live/1388/123456/101.ts
-#EXTINF:-1,REDE SUPER
-http://168.205.87.198:8555/live/1388/123456/163.ts
-#EXTINF:-1,REDE TV
-http://168.205.87.198:8555/live/1388/123456/102.ts
-#EXTINF:-1,REDE VIDA
-http://168.205.87.198:8555/live/1388/123456/103.ts
-#EXTINF:-1,RIT
-http://168.205.87.198:8555/live/1388/123456/168.ts
-#EXTINF:-1,RÁDIO BOSSA NOVA
-http://168.205.87.198:8555/live/1388/123456/85.ts
-#EXTINF:-1,RÁDIO FESTA
-http://168.205.87.198:8555/live/1388/123456/86.ts
-#EXTINF:-1,RÁDIO LOUNGE
-http://168.205.87.198:8555/live/1388/123456/87.ts
-#EXTINF:-1,RÁDIO METAL
-http://168.205.87.198:8555/live/1388/123456/89.ts
-#EXTINF:-1,RÁDIO MÚSICA CLÁSSICA
-http://168.205.87.198:8555/live/1388/123456/88.ts
-#EXTINF:-1,RÁDIO NEW ROCK
-http://168.205.87.198:8555/live/1388/123456/90.ts
-#EXTINF:-1,RÁDIO PAGODE
-http://168.205.87.198:8555/live/1388/123456/91.ts
-#EXTINF:-1,RÁDIO POP HITS
-http://168.205.87.198:8555/live/1388/123456/92.ts
-#EXTINF:-1,RÁDIO POP ROCK
-http://168.205.87.198:8555/live/1388/123456/93.ts
-#EXTINF:-1,RÁDIO TRILHAS SONORAS
-http://168.205.87.198:8555/live/1388/123456/95.ts
-#EXTINF:-1,SABOR E ARTE
-http://168.205.87.198:8555/live/1388/123456/172.ts
-#EXTINF:-1,SBT ALTEROSA
-http://168.205.87.198:8555/live/1388/123456/104.ts
-#EXTINF:-1,SCH
-http://168.205.87.198:8555/live/1388/123456/105.ts
-#EXTINF:-1,SECULO 21
-http://168.205.87.198:8555/live/1388/123456/106.ts
-#EXTINF:-1,SESC TV
-http://168.205.87.198:8555/live/1388/123456/107.ts
-#EXTINF:-1,SHOPTIME
-http://168.205.87.198:8555/live/1388/123456/164.ts
-#EXTINF:-1,SMITHSONIAN
-http://168.205.87.198:8555/live/1388/123456/173.ts
-#EXTINF:-1,SÉRIES CLÁSSICAS
-http://168.205.87.198:8555/live/1388/123456/160.ts
-#EXTINF:-1,TERRA VIVA
-http://168.205.87.198:8555/live/1388/123456/171.ts
-#EXTINF:-1,TRAVEL
-http://168.205.87.198:8555/live/1388/123456/124.ts
-#EXTINF:-1,TV APARECIDA
-http://168.205.87.198:8555/live/1388/123456/131.ts
-#EXTINF:-1,TV BRASIL 2
-http://168.205.87.198:8555/live/1388/123456/135.ts
-#EXTINF:-1,TV BRASIL
-http://168.205.87.198:8555/live/1388/123456/134.ts
-#EXTINF:-1,TV CÂMARA
-http://168.205.87.198:8555/live/1388/123456/136.ts
-#EXTINF:-1,TV ESCOLA
-http://168.205.87.198:8555/live/1388/123456/137.ts
-#EXTINF:-1,TV JUSTIÇA
-http://168.205.87.198:8555/live/1388/123456/138.ts
-#EXTINF:-1,TV SENADO
-http://168.205.87.198:8555/live/1388/123456/139.ts
-#EXTINF:-1,TV TURFE
-http://168.205.87.198:8555/live/1388/123456/152.ts
-#EXTINF:-1,VRT CHANNEL
-http://168.205.87.198:8555/live/1388/123456/146.ts
-#EXTINF:-1,WOOHOO
-http://168.205.87.198:8555/live/1388/123456/141.ts
-#EXTINF:-1,ZOOMOO
-http://168.205.87.198:8555/live/1388/123456/162.ts
+#EXTM3U
+#EXTINF:-1,24H CAVERNA DO DRAGÃO
+http://51.89.98.62:8080/lindaura/lindaura/28136
+#EXTINF:-1,24H CORAGEM O CÃO COVARDE
+http://51.89.98.62:8080/lindaura/lindaura/28198
+#EXTINF:-1,24H CORAGEM O CÃO COVARDE*
+http://51.89.98.62:8080/lindaura/lindaura/28146
+#EXTINF:-1,24h I Masha e o Urso
+http://51.89.98.62:8080/lindaura/lindaura/42906
+#EXTINF:-1,24h I Masha e o Urso 2
+http://51.89.98.62:8080/lindaura/lindaura/42955
+#EXTINF:-1,24h I Timão & Pumba
+http://51.89.98.62:8080/lindaura/lindaura/46522
+#EXTINF:-1,89 FM A Rádio Rock
+http://51.89.98.62:8080/lindaura/lindaura/23663
+#EXTINF:-1,A Casa das Brasileirinhas - 01
+http://51.89.98.62:8080/lindaura/lindaura/49644
+#EXTINF:-1,A Casa das Brasileirinhas - 02
+http://51.89.98.62:8080/lindaura/lindaura/49645
+#EXTINF:-1,A Casa das Brasileirinhas - 03
+http://51.89.98.62:8080/lindaura/lindaura/49646
+#EXTINF:-1,A Casa das Brasileirinhas - 04
+http://51.89.98.62:8080/lindaura/lindaura/49647
+#EXTINF:-1,A Família Addams
+http://51.89.98.62:8080/lindaura/lindaura/44256
+#EXTINF:-1,A Mansão Foster para Amigos Imaginários
+http://51.89.98.62:8080/lindaura/lindaura/46505
+#EXTINF:-1,A Pantera Cor de Rosa
+http://51.89.98.62:8080/lindaura/lindaura/46506
+#EXTINF:-1,A Pequena Sereia (1992)
+http://51.89.98.62:8080/lindaura/lindaura/49724
+#EXTINF:-1,A Vaca e o Frango
+http://51.89.98.62:8080/lindaura/lindaura/46507
+#EXTINF:-1,A&E FHD
+http://51.89.98.62:8080/lindaura/lindaura/20253
+#EXTINF:-1,A&E HD
+http://51.89.98.62:8080/lindaura/lindaura/236
+#EXTINF:-1,A&E SD
+http://51.89.98.62:8080/lindaura/lindaura/235
+#EXTINF:-1,AgroMais HD
+http://51.89.98.62:8080/lindaura/lindaura/48331
+#EXTINF:-1,AgroMais SD
+http://51.89.98.62:8080/lindaura/lindaura/48332
+#EXTINF:-1,Aladdin (1994)
+http://51.89.98.62:8080/lindaura/lindaura/42939
+#EXTINF:-1,Alem da Imaginação 2020 / 24h
+http://51.89.98.62:8080/lindaura/lindaura/28743
+#EXTINF:-1,Alf, O ETeimoso
+http://51.89.98.62:8080/lindaura/lindaura/28658
+#EXTINF:-1,AMC HD
+http://51.89.98.62:8080/lindaura/lindaura/512
+#EXTINF:-1,AMC SD
+http://51.89.98.62:8080/lindaura/lindaura/233
+#EXTINF:-1,Animal Planet FHD
+http://51.89.98.62:8080/lindaura/lindaura/20257
+#EXTINF:-1,Animal Planet HD
+http://51.89.98.62:8080/lindaura/lindaura/232
+#EXTINF:-1,Animal Planet SD
+http://51.89.98.62:8080/lindaura/lindaura/231
+#EXTINF:-1,Arquivo X
+http://51.89.98.62:8080/lindaura/lindaura/42951
+#EXTINF:-1,As Aventuras de Jackie Chan (2000)
+http://51.89.98.62:8080/lindaura/lindaura/49715
+#EXTINF:-1,As Meninas Superpoderosas (1998)
+http://51.89.98.62:8080/lindaura/lindaura/42941
+#EXTINF:-1,AXN FHD
+http://51.89.98.62:8080/lindaura/lindaura/20234
+#EXTINF:-1,AXN HD
+http://51.89.98.62:8080/lindaura/lindaura/535
+#EXTINF:-1,AXN SD
+http://51.89.98.62:8080/lindaura/lindaura/227
+#EXTINF:-1,Baby Looney Tunes (2002)
+http://51.89.98.62:8080/lindaura/lindaura/42942
+#EXTINF:-1,BabyTV HD
+http://51.89.98.62:8080/lindaura/lindaura/226
+#EXTINF:-1,BabyTV SD
+http://51.89.98.62:8080/lindaura/lindaura/225
+#EXTINF:-1,Band Campinas HD
+http://51.89.98.62:8080/lindaura/lindaura/242
+#EXTINF:-1,Band Campinas SD
+http://51.89.98.62:8080/lindaura/lindaura/241
+#EXTINF:-1,Band News HD
+http://51.89.98.62:8080/lindaura/lindaura/224
+#EXTINF:-1,Band News SD
+http://51.89.98.62:8080/lindaura/lindaura/223
+#EXTINF:-1,Band SP HD
+http://51.89.98.62:8080/lindaura/lindaura/130
+#EXTINF:-1,Band SP SD
+http://51.89.98.62:8080/lindaura/lindaura/129
+#EXTINF:-1,Band Sports HD
+http://51.89.98.62:8080/lindaura/lindaura/221
+#EXTINF:-1,Band Sports SD
+http://51.89.98.62:8080/lindaura/lindaura/220
+#EXTINF:-1,Batman
+http://51.89.98.62:8080/lindaura/lindaura/44255
+#EXTINF:-1,BBB 1 FHD
+http://51.89.98.62:8080/lindaura/lindaura/49702
+#EXTINF:-1,BBB 1 HD
+http://51.89.98.62:8080/lindaura/lindaura/49701
+#EXTINF:-1,BBB 1 SD
+http://51.89.98.62:8080/lindaura/lindaura/50011
+#EXTINF:-1,BBB 2 HD
+http://51.89.98.62:8080/lindaura/lindaura/50014
+#EXTINF:-1,BBB 2 SD
+http://51.89.98.62:8080/lindaura/lindaura/50015
+#EXTINF:-1,BBB Academia
+http://51.89.98.62:8080/lindaura/lindaura/50406
+#EXTINF:-1,BBB Banheiro
+http://51.89.98.62:8080/lindaura/lindaura/50407
+#EXTINF:-1,BBB Confessionário
+http://51.89.98.62:8080/lindaura/lindaura/50408
+#EXTINF:-1,BBB Jardim
+http://51.89.98.62:8080/lindaura/lindaura/50409
+#EXTINF:-1,BBB Mosaico HD
+http://51.89.98.62:8080/lindaura/lindaura/50012
+#EXTINF:-1,BBB Mosaico SD
+http://51.89.98.62:8080/lindaura/lindaura/50013
+#EXTINF:-1,BBB Piscina
+http://51.89.98.62:8080/lindaura/lindaura/50410
+#EXTINF:-1,BBB Quarto Grunge
+http://51.89.98.62:8080/lindaura/lindaura/50411
+#EXTINF:-1,BBB Quarto Lollipop
+http://51.89.98.62:8080/lindaura/lindaura/50412
+#EXTINF:-1,BBB Sala
+http://51.89.98.62:8080/lindaura/lindaura/50413
+#EXTINF:-1,Ben 10 (2005)
+http://51.89.98.62:8080/lindaura/lindaura/49716
+#EXTINF:-1,Ben 10 Forca Alienigena (2008)
+http://51.89.98.62:8080/lindaura/lindaura/49719
+#EXTINF:-1,Ben 10: Omniverse
+http://51.89.98.62:8080/lindaura/lindaura/46508
+#EXTINF:-1,Ben 10: Supremacia Alienígena
+http://51.89.98.62:8080/lindaura/lindaura/46509
+#EXTINF:-1,BestRadio Brasil
+http://51.89.98.62:8080/lindaura/lindaura/23673
+#EXTINF:-1,Bis HD
+http://51.89.98.62:8080/lindaura/lindaura/219
+#EXTINF:-1,BIs SD
+http://51.89.98.62:8080/lindaura/lindaura/218
+#EXTINF:-1,Black in Love
+http://51.89.98.62:8080/lindaura/lindaura/49263
+#EXTINF:-1,Black Kamen Rider 24H
+http://51.89.98.62:8080/lindaura/lindaura/537
+#EXTINF:-1,Bloomberg HD
+http://51.89.98.62:8080/lindaura/lindaura/49127
+#EXTINF:-1,Bloomberg SD
+http://51.89.98.62:8080/lindaura/lindaura/49128
+#EXTINF:-1,Boa Vontade TV HD
+http://51.89.98.62:8080/lindaura/lindaura/49115
+#EXTINF:-1,Boa Vontade TV SD
+http://51.89.98.62:8080/lindaura/lindaura/49116
+#EXTINF:-1,Bob Esponja 24H
+http://51.89.98.62:8080/lindaura/lindaura/40793
+#EXTINF:-1,BoJack Horseman
+http://51.89.98.62:8080/lindaura/lindaura/46510
+#EXTINF:-1,Boomerang HD
+http://51.89.98.62:8080/lindaura/lindaura/217
+#EXTINF:-1,Boomerang SD
+http://51.89.98.62:8080/lindaura/lindaura/216
+#EXTINF:-1,Brasileirinhas
+http://51.89.98.62:8080/lindaura/lindaura/42907
+#EXTINF:-1,Canal Brasil FHD
+http://51.89.98.62:8080/lindaura/lindaura/20227
+#EXTINF:-1,Canal CSI 24H
+http://51.89.98.62:8080/lindaura/lindaura/538
+#EXTINF:-1,Canal do Boi HD
+http://51.89.98.62:8080/lindaura/lindaura/20467
+#EXTINF:-1,Canal do Boi SD
+http://51.89.98.62:8080/lindaura/lindaura/49046
+#EXTINF:-1,Canal do Carro HD
+http://51.89.98.62:8080/lindaura/lindaura/48327
+#EXTINF:-1,Canal do Carro SD
+http://51.89.98.62:8080/lindaura/lindaura/48328
+#EXTINF:-1,Canal I Tv Igreja Mundial do Poder de Deus
+http://51.89.98.62:8080/lindaura/lindaura/23207
+#EXTINF:-1,Canal Rural HD
+http://51.89.98.62:8080/lindaura/lindaura/49121
+#EXTINF:-1,Canal Rural SD
+http://51.89.98.62:8080/lindaura/lindaura/49122
+#EXTINF:-1,Canção Nova HD
+http://51.89.98.62:8080/lindaura/lindaura/47755
+#EXTINF:-1,Canção Nova SD
+http://51.89.98.62:8080/lindaura/lindaura/47756
+#EXTINF:-1,Capitão Planeta (1990)
+http://51.89.98.62:8080/lindaura/lindaura/49779
+#EXTINF:-1,Cartoon Network FHD
+http://51.89.98.62:8080/lindaura/lindaura/20267
+#EXTINF:-1,Cartoon Network HD
+http://51.89.98.62:8080/lindaura/lindaura/524
+#EXTINF:-1,Cartoon Network SD
+http://51.89.98.62:8080/lindaura/lindaura/204
+#EXTINF:-1,Cartoonito HD
+http://51.89.98.62:8080/lindaura/lindaura/49052
+#EXTINF:-1,Cartoonito SD
+http://51.89.98.62:8080/lindaura/lindaura/49053
+#EXTINF:-1,CatDog
+http://51.89.98.62:8080/lindaura/lindaura/46511
+#EXTINF:-1,Caverna do Dragão
+http://51.89.98.62:8080/lindaura/lindaura/46512
+#EXTINF:-1,CDZ  Saga de Poseidon 24H
+http://51.89.98.62:8080/lindaura/lindaura/40787
+#EXTINF:-1,CDZ Saga de Asgard 24H
+http://51.89.98.62:8080/lindaura/lindaura/40788
+#EXTINF:-1,CDZ Saga de Hades 24H
+http://51.89.98.62:8080/lindaura/lindaura/40789
+#EXTINF:-1,CDZ Saga do Santuario  24H
+http://51.89.98.62:8080/lindaura/lindaura/40790
+#EXTINF:-1,Chapolin 2 24H
+http://51.89.98.62:8080/lindaura/lindaura/19541
+#EXTINF:-1,Charm Music Anos 90
+http://51.89.98.62:8080/lindaura/lindaura/49267
+#EXTINF:-1,Chaves
+http://51.89.98.62:8080/lindaura/lindaura/46513
+#EXTINF:-1,Chaves 24H
+http://51.89.98.62:8080/lindaura/lindaura/40791
+#EXTINF:-1,Chaves Desenho 24H
+http://51.89.98.62:8080/lindaura/lindaura/40798
+#EXTINF:-1,Chris Country
+http://51.89.98.62:8080/lindaura/lindaura/23664
+#EXTINF:-1,Cine Action 24H Ultra HD
+http://51.89.98.62:8080/lindaura/lindaura/548
+#EXTINF:-1,Cine Action HD
+http://51.89.98.62:8080/lindaura/lindaura/28657
+#EXTINF:-1,Cine Drama 24H Ultra HD
+http://51.89.98.62:8080/lindaura/lindaura/550
+#EXTINF:-1,Cine Family 24H
+http://51.89.98.62:8080/lindaura/lindaura/551
+#EXTINF:-1,Cine Fiction 24H Ultra HD
+http://51.89.98.62:8080/lindaura/lindaura/536
+#EXTINF:-1,Cine Fun 24H Ultra HD
+http://51.89.98.62:8080/lindaura/lindaura/552
+#EXTINF:-1,Cine Guerra 24H Ultra HD
+http://51.89.98.62:8080/lindaura/lindaura/1477
+#EXTINF:-1,Cine Horror 24H Ultra HD
+http://51.89.98.62:8080/lindaura/lindaura/553
+#EXTINF:-1,CINE KIDS 24H ULTRA HD
+http://51.89.98.62:8080/lindaura/lindaura/554
+#EXTINF:-1,CINE Nacionais 24H
+http://51.89.98.62:8080/lindaura/lindaura/555
+#EXTINF:-1,CINE SKY 01 HD
+http://51.89.98.62:8080/lindaura/lindaura/26714
+#EXTINF:-1,CINE SKY 02 HD
+http://51.89.98.62:8080/lindaura/lindaura/26715
+#EXTINF:-1,CINE SKY 03 HD
+http://51.89.98.62:8080/lindaura/lindaura/26716
+#EXTINF:-1,CINE SKY 04 HD
+http://51.89.98.62:8080/lindaura/lindaura/26717
+#EXTINF:-1,CINE SKY 05 HD
+http://51.89.98.62:8080/lindaura/lindaura/26718
+#EXTINF:-1,CINE SKY 06 HD
+http://51.89.98.62:8080/lindaura/lindaura/26719
+#EXTINF:-1,CINE SKY 07 HD
+http://51.89.98.62:8080/lindaura/lindaura/26720
+#EXTINF:-1,CINE SKY 08 HD
+http://51.89.98.62:8080/lindaura/lindaura/26721
+#EXTINF:-1,CINE SKY 09 HD
+http://51.89.98.62:8080/lindaura/lindaura/26722
+#EXTINF:-1,CINE SKY 10 HD
+http://51.89.98.62:8080/lindaura/lindaura/26723
+#EXTINF:-1,Cinemax FHD
+http://51.89.98.62:8080/lindaura/lindaura/36589
+#EXTINF:-1,Cinemax HD
+http://51.89.98.62:8080/lindaura/lindaura/203
+#EXTINF:-1,Cinemax SD
+http://51.89.98.62:8080/lindaura/lindaura/202
+#EXTINF:-1,Classicos da MPB
+http://51.89.98.62:8080/lindaura/lindaura/49274
+#EXTINF:-1,Classicos do Pagode
+http://51.89.98.62:8080/lindaura/lindaura/49265
+#EXTINF:-1,Classicos Natal
+http://51.89.98.62:8080/lindaura/lindaura/49250
+#EXTINF:-1,Classicos Rock Internacional
+http://51.89.98.62:8080/lindaura/lindaura/49278
+#EXTINF:-1,Clube da Criança
+http://51.89.98.62:8080/lindaura/lindaura/23652
+#EXTINF:-1,Cnn Brasil HD
+http://51.89.98.62:8080/lindaura/lindaura/8890
+#EXTINF:-1,Cnn Brasil SD
+http://51.89.98.62:8080/lindaura/lindaura/8891
+#EXTINF:-1,CNN International HD
+http://51.89.98.62:8080/lindaura/lindaura/49125
+#EXTINF:-1,CNN International SD
+http://51.89.98.62:8080/lindaura/lindaura/49126
+#EXTINF:-1,Cold Case
+http://51.89.98.62:8080/lindaura/lindaura/46497
+#EXTINF:-1,Comando Dolbuck (1983)
+http://51.89.98.62:8080/lindaura/lindaura/49771
+#EXTINF:-1,Combate FHD
+http://51.89.98.62:8080/lindaura/lindaura/19526
+#EXTINF:-1,Combate HD
+http://51.89.98.62:8080/lindaura/lindaura/201
+#EXTINF:-1,Combate SD
+http://51.89.98.62:8080/lindaura/lindaura/200
+#EXTINF:-1,Comedy Central FHD
+http://51.89.98.62:8080/lindaura/lindaura/20263
+#EXTINF:-1,Comedy Central HD
+http://51.89.98.62:8080/lindaura/lindaura/199
+#EXTINF:-1,Comedy Central SD
+http://51.89.98.62:8080/lindaura/lindaura/198
+#EXTINF:-1,Como eu Conheci a Sua Mae  24H
+http://51.89.98.62:8080/lindaura/lindaura/567
+#EXTINF:-1,Conmebol TV 1 HD
+http://51.89.98.62:8080/lindaura/lindaura/18835
+#EXTINF:-1,CONMEBOL TV 1 SD
+http://51.89.98.62:8080/lindaura/lindaura/19039
+#EXTINF:-1,Conmebol TV 2 HD
+http://51.89.98.62:8080/lindaura/lindaura/18836
+#EXTINF:-1,Conmebol TV 2 SD
+http://51.89.98.62:8080/lindaura/lindaura/19040
+#EXTINF:-1,Conmebol TV 3 HD
+http://51.89.98.62:8080/lindaura/lindaura/18837
+#EXTINF:-1,Conmebol TV 3 SD
+http://51.89.98.62:8080/lindaura/lindaura/19041
+#EXTINF:-1,Conmebol TV 4 HD
+http://51.89.98.62:8080/lindaura/lindaura/18838
+#EXTINF:-1,Conmebol TV 4 SD
+http://51.89.98.62:8080/lindaura/lindaura/19042
+#EXTINF:-1,Country Love Songs
+http://51.89.98.62:8080/lindaura/lindaura/49266
+#EXTINF:-1,Country Music Hits
+http://51.89.98.62:8080/lindaura/lindaura/49268
+#EXTINF:-1,Cultura HD
+http://51.89.98.62:8080/lindaura/lindaura/197
+#EXTINF:-1,Cultura SD
+http://51.89.98.62:8080/lindaura/lindaura/196
+#EXTINF:-1,Curta! HD
+http://51.89.98.62:8080/lindaura/lindaura/213
+#EXTINF:-1,Curta! SD
+http://51.89.98.62:8080/lindaura/lindaura/212
+#EXTINF:-1,Cybercop, os Policiais do Futuro 24H
+http://51.89.98.62:8080/lindaura/lindaura/1479
+#EXTINF:-1,DAZN 1
+http://51.89.98.62:8080/lindaura/lindaura/19542
+#EXTINF:-1,DAZN 2
+http://51.89.98.62:8080/lindaura/lindaura/19543
+#EXTINF:-1,DAZN 3
+http://51.89.98.62:8080/lindaura/lindaura/19544
+#EXTINF:-1,DAZN 4
+http://51.89.98.62:8080/lindaura/lindaura/19545
+#EXTINF:-1,DAZN 5
+http://51.89.98.62:8080/lindaura/lindaura/20459
+#EXTINF:-1,De Volta Para O Futuro (1991)
+http://51.89.98.62:8080/lindaura/lindaura/42936
+#EXTINF:-1,DESENHOS ANIMADOS
+http://51.89.98.62:8080/lindaura/lindaura/42952
+#EXTINF:-1,DESENHOS ANIMADOS ANTIGOS
+http://51.89.98.62:8080/lindaura/lindaura/42956
+#EXTINF:-1,Dick Vigarista
+http://51.89.98.62:8080/lindaura/lindaura/46514
+#EXTINF:-1,Disco Funk
+http://51.89.98.62:8080/lindaura/lindaura/23672
+#EXTINF:-1,Discovery Channel FHD
+http://51.89.98.62:8080/lindaura/lindaura/20225
+#EXTINF:-1,Discovery Channel HD
+http://51.89.98.62:8080/lindaura/lindaura/195
+#EXTINF:-1,Discovery Channel SD
+http://51.89.98.62:8080/lindaura/lindaura/194
+#EXTINF:-1,Discovery Home & Health FHD
+http://51.89.98.62:8080/lindaura/lindaura/20265
+#EXTINF:-1,Discovery Home & Health HD
+http://51.89.98.62:8080/lindaura/lindaura/191
+#EXTINF:-1,Discovery Home & Health SD
+http://51.89.98.62:8080/lindaura/lindaura/190
+#EXTINF:-1,Discovery Kids HD
+http://51.89.98.62:8080/lindaura/lindaura/189
+#EXTINF:-1,Discovery Kids SD
+http://51.89.98.62:8080/lindaura/lindaura/188
+#EXTINF:-1,Discovery Science FHD
+http://51.89.98.62:8080/lindaura/lindaura/20258
+#EXTINF:-1,Discovery Science HD
+http://51.89.98.62:8080/lindaura/lindaura/187
+#EXTINF:-1,Discovery Science SD
+http://51.89.98.62:8080/lindaura/lindaura/186
+#EXTINF:-1,Discovery Theater HD
+http://51.89.98.62:8080/lindaura/lindaura/185
+#EXTINF:-1,Discovery Theater SD
+http://51.89.98.62:8080/lindaura/lindaura/184
+#EXTINF:-1,Discovery Turbo FHD
+http://51.89.98.62:8080/lindaura/lindaura/20266
+#EXTINF:-1,Discovery Turbo HD
+http://51.89.98.62:8080/lindaura/lindaura/183
+#EXTINF:-1,Discovery Turbo SD
+http://51.89.98.62:8080/lindaura/lindaura/182
+#EXTINF:-1,Discovery World FHD
+http://51.89.98.62:8080/lindaura/lindaura/20259
+#EXTINF:-1,Discovery World HD
+http://51.89.98.62:8080/lindaura/lindaura/181
+#EXTINF:-1,Discovery World SD
+http://51.89.98.62:8080/lindaura/lindaura/180
+#EXTINF:-1,Disney Channel  HD
+http://51.89.98.62:8080/lindaura/lindaura/179
+#EXTINF:-1,Disney Channel FHD
+http://51.89.98.62:8080/lindaura/lindaura/20226
+#EXTINF:-1,Disney Channel SD
+http://51.89.98.62:8080/lindaura/lindaura/178
+#EXTINF:-1,Disney Junior HD
+http://51.89.98.62:8080/lindaura/lindaura/177
+#EXTINF:-1,Disney Junior SD
+http://51.89.98.62:8080/lindaura/lindaura/176
+#EXTINF:-1,Disney XD HD
+http://51.89.98.62:8080/lindaura/lindaura/175
+#EXTINF:-1,Disney XD SD
+http://51.89.98.62:8080/lindaura/lindaura/174
+#EXTINF:-1,DogTV FHD
+http://51.89.98.62:8080/lindaura/lindaura/46139
+#EXTINF:-1,DogTV HD
+http://51.89.98.62:8080/lindaura/lindaura/22987
+#EXTINF:-1,DogTV SD
+http://51.89.98.62:8080/lindaura/lindaura/22988
+#EXTINF:-1,DR. House 1 24HR 
+http://51.89.98.62:8080/lindaura/lindaura/568
+#EXTINF:-1,Dr. House 2 24H
+http://51.89.98.62:8080/lindaura/lindaura/20461
+#EXTINF:-1,Dr. House S01
+http://51.89.98.62:8080/lindaura/lindaura/46590
+#EXTINF:-1,Dr. House S02
+http://51.89.98.62:8080/lindaura/lindaura/46591
+#EXTINF:-1,Dr. House S03
+http://51.89.98.62:8080/lindaura/lindaura/46592
+#EXTINF:-1,Dr. House S04
+http://51.89.98.62:8080/lindaura/lindaura/46593
+#EXTINF:-1,Dr. House S05
+http://51.89.98.62:8080/lindaura/lindaura/46594
+#EXTINF:-1,Dr. House S06
+http://51.89.98.62:8080/lindaura/lindaura/46595
+#EXTINF:-1,Dr. House S07
+http://51.89.98.62:8080/lindaura/lindaura/46596
+#EXTINF:-1,Dr. House S08
+http://51.89.98.62:8080/lindaura/lindaura/46597
+#EXTINF:-1,Dragoes  24H
+http://51.89.98.62:8080/lindaura/lindaura/1480
+#EXTINF:-1,Dragon Ball GT 24H
+http://51.89.98.62:8080/lindaura/lindaura/40781
+#EXTINF:-1,Dragon Ball Super 24H
+http://51.89.98.62:8080/lindaura/lindaura/40776
+#EXTINF:-1,Dragon Ball Super: Deus da Destruição Bills e Golden Freeza
+http://51.89.98.62:8080/lindaura/lindaura/46515
+#EXTINF:-1,Dragon Ball Super: Sobrevivência do Universo
+http://51.89.98.62:8080/lindaura/lindaura/46516
+#EXTINF:-1,Dragon Ball Super: Universo 6 e Trunks do "Futuro"
+http://51.89.98.62:8080/lindaura/lindaura/46517
+#EXTINF:-1,Dragon Ball X Freeza 24H
+http://51.89.98.62:8080/lindaura/lindaura/40777
+#EXTINF:-1,Dragon Ball Z Androides 24H
+http://51.89.98.62:8080/lindaura/lindaura/40778
+#EXTINF:-1,Dragon Ball Z Cell 24H
+http://51.89.98.62:8080/lindaura/lindaura/40779
+#EXTINF:-1,Dragon Ball Z Sayajins 24H
+http://51.89.98.62:8080/lindaura/lindaura/40780
+#EXTINF:-1,Duck Tales
+http://51.89.98.62:8080/lindaura/lindaura/46518
+#EXTINF:-1,Ducktales 24H
+http://51.89.98.62:8080/lindaura/lindaura/40783
+#EXTINF:-1,E! HD
+http://51.89.98.62:8080/lindaura/lindaura/516
+#EXTINF:-1,E! SD
+http://51.89.98.62:8080/lindaura/lindaura/172
+#EXTINF:-1,EI Plus 1
+http://51.89.98.62:8080/lindaura/lindaura/20395
+#EXTINF:-1,EI Plus 10
+http://51.89.98.62:8080/lindaura/lindaura/20235
+#EXTINF:-1,EI Plus 2
+http://51.89.98.62:8080/lindaura/lindaura/20244
+#EXTINF:-1,EI Plus 3 
+http://51.89.98.62:8080/lindaura/lindaura/20242
+#EXTINF:-1,EI Plus 4
+http://51.89.98.62:8080/lindaura/lindaura/20241
+#EXTINF:-1,EI Plus 5
+http://51.89.98.62:8080/lindaura/lindaura/20240
+#EXTINF:-1,EI Plus 6
+http://51.89.98.62:8080/lindaura/lindaura/20239
+#EXTINF:-1,EI Plus 7
+http://51.89.98.62:8080/lindaura/lindaura/20238
+#EXTINF:-1,EI Plus 8
+http://51.89.98.62:8080/lindaura/lindaura/20237
+#EXTINF:-1,EI Plus 9
+http://51.89.98.62:8080/lindaura/lindaura/20236
+#EXTINF:-1,EPTV Campinas FHD
+http://51.89.98.62:8080/lindaura/lindaura/34094
+#EXTINF:-1,EPTV Campinas HD
+http://51.89.98.62:8080/lindaura/lindaura/238
+#EXTINF:-1,EPTV Campinas HD 2
+http://51.89.98.62:8080/lindaura/lindaura/246
+#EXTINF:-1,EPTV Campinas SD
+http://51.89.98.62:8080/lindaura/lindaura/237
+#EXTINF:-1,ESPN HD
+http://51.89.98.62:8080/lindaura/lindaura/27272
+#EXTINF:-1,ESPN SD
+http://51.89.98.62:8080/lindaura/lindaura/27273
+#EXTINF:-1,ESPN  2 HD
+http://51.89.98.62:8080/lindaura/lindaura/167
+#EXTINF:-1,ESPN  2 SD
+http://51.89.98.62:8080/lindaura/lindaura/166
+#EXTINF:-1,ESPN  3 HD
+http://51.89.98.62:8080/lindaura/lindaura/171
+#EXTINF:-1,ESPN  3 SD 
+http://51.89.98.62:8080/lindaura/lindaura/170
+#EXTINF:-1,ESPN 4 FHD
+http://51.89.98.62:8080/lindaura/lindaura/20310
+#EXTINF:-1,ESPN 4 HD
+http://51.89.98.62:8080/lindaura/lindaura/147
+#EXTINF:-1,ESPN 4 SD
+http://51.89.98.62:8080/lindaura/lindaura/146
+#EXTINF:-1,Espn Extra  SD
+http://51.89.98.62:8080/lindaura/lindaura/164
+#EXTINF:-1,Espn Extra HD
+http://51.89.98.62:8080/lindaura/lindaura/165
+#EXTINF:-1,ESTADIO TNT SPORT 01 HD
+http://51.89.98.62:8080/lindaura/lindaura/26738
+#EXTINF:-1,Eu a Patroa e as Crianças
+http://51.89.98.62:8080/lindaura/lindaura/321
+#EXTINF:-1,Eu, a Patroa e as Criancas (2001)
+http://51.89.98.62:8080/lindaura/lindaura/42946
+#EXTINF:-1,Eurochannel HD
+http://51.89.98.62:8080/lindaura/lindaura/48340
+#EXTINF:-1,Eurochannel SD
+http://51.89.98.62:8080/lindaura/lindaura/48341
+#EXTINF:-1,Evangélicos
+http://51.89.98.62:8080/lindaura/lindaura/43180
+#EXTINF:-1,Familia da Pesada 24H
+http://51.89.98.62:8080/lindaura/lindaura/1481
+#EXTINF:-1,Familia Dinossauro  24H
+http://51.89.98.62:8080/lindaura/lindaura/569
+#EXTINF:-1,Fashion TV HD
+http://51.89.98.62:8080/lindaura/lindaura/48333
+#EXTINF:-1,Fashion TV SD
+http://51.89.98.62:8080/lindaura/lindaura/48334
+#EXTINF:-1,FFH The 80's
+http://51.89.98.62:8080/lindaura/lindaura/23536
+#EXTINF:-1,Film&Arts HD
+http://51.89.98.62:8080/lindaura/lindaura/163
+#EXTINF:-1,Film&Arts SD
+http://51.89.98.62:8080/lindaura/lindaura/162
+#EXTINF:-1,Fish TV FHD
+http://51.89.98.62:8080/lindaura/lindaura/20256
+#EXTINF:-1,Fish TV HD
+http://51.89.98.62:8080/lindaura/lindaura/525
+#EXTINF:-1,Fish TV SD
+http://51.89.98.62:8080/lindaura/lindaura/161
+#EXTINF:-1,Flash Back
+http://51.89.98.62:8080/lindaura/lindaura/47824
+#EXTINF:-1,Flash Back 80
+http://51.89.98.62:8080/lindaura/lindaura/49269
+#EXTINF:-1,Flash House 2
+http://51.89.98.62:8080/lindaura/lindaura/49270
+#EXTINF:-1,Flash Rap
+http://51.89.98.62:8080/lindaura/lindaura/49251
+#EXTINF:-1,Food Network HD
+http://51.89.98.62:8080/lindaura/lindaura/158
+#EXTINF:-1,Food Network SD
+http://51.89.98.62:8080/lindaura/lindaura/159
+#EXTINF:-1,For Man
+http://51.89.98.62:8080/lindaura/lindaura/42925
+#EXTINF:-1,Forró & Pisadinha
+http://51.89.98.62:8080/lindaura/lindaura/49271
+#EXTINF:-1,FOX Sports 2 FHD
+http://51.89.98.62:8080/lindaura/lindaura/20311
+#EXTINF:-1,Fox Sports 2 HD
+http://51.89.98.62:8080/lindaura/lindaura/529
+#EXTINF:-1,Fox Sports 2 SD
+http://51.89.98.62:8080/lindaura/lindaura/148
+#EXTINF:-1,France 24 HD
+http://51.89.98.62:8080/lindaura/lindaura/48347
+#EXTINF:-1,France 24 SD
+http://51.89.98.62:8080/lindaura/lindaura/48348
+#EXTINF:-1,Friends 24H Ultra HD
+http://51.89.98.62:8080/lindaura/lindaura/40795
+#EXTINF:-1,Friends S01
+http://51.89.98.62:8080/lindaura/lindaura/46540
+#EXTINF:-1,Friends S01-04 (LEG)
+http://51.89.98.62:8080/lindaura/lindaura/46541
+#EXTINF:-1,Friends S02
+http://51.89.98.62:8080/lindaura/lindaura/46542
+#EXTINF:-1,Friends S03
+http://51.89.98.62:8080/lindaura/lindaura/46543
+#EXTINF:-1,Friends S04
+http://51.89.98.62:8080/lindaura/lindaura/46544
+#EXTINF:-1,Friends S05
+http://51.89.98.62:8080/lindaura/lindaura/46545
+#EXTINF:-1,Friends S05-08 (LEG)
+http://51.89.98.62:8080/lindaura/lindaura/46546
+#EXTINF:-1,Friends S06
+http://51.89.98.62:8080/lindaura/lindaura/46547
+#EXTINF:-1,Friends S07
+http://51.89.98.62:8080/lindaura/lindaura/46548
+#EXTINF:-1,Friends S08
+http://51.89.98.62:8080/lindaura/lindaura/46549
+#EXTINF:-1,Friends S09
+http://51.89.98.62:8080/lindaura/lindaura/46550
+#EXTINF:-1,Friends S10
+http://51.89.98.62:8080/lindaura/lindaura/46551
+#EXTINF:-1,Funk - Americano
+http://51.89.98.62:8080/lindaura/lindaura/23540
+#EXTINF:-1,Funk Americano
+http://51.89.98.62:8080/lindaura/lindaura/49249
+#EXTINF:-1,Funk Melody
+http://51.89.98.62:8080/lindaura/lindaura/49252
+#EXTINF:-1,Futura HD
+http://51.89.98.62:8080/lindaura/lindaura/211
+#EXTINF:-1,Futura SD
+http://51.89.98.62:8080/lindaura/lindaura/210
+#EXTINF:-1,FX FHD
+http://51.89.98.62:8080/lindaura/lindaura/20275
+#EXTINF:-1,FX HD
+http://51.89.98.62:8080/lindaura/lindaura/145
+#EXTINF:-1,FX SD
+http://51.89.98.62:8080/lindaura/lindaura/144
+#EXTINF:-1,Galinha Pintadinha 24H
+http://51.89.98.62:8080/lindaura/lindaura/1476
+#EXTINF:-1,Game of Thrones S01
+http://51.89.98.62:8080/lindaura/lindaura/46552
+#EXTINF:-1,Game of Thrones S02
+http://51.89.98.62:8080/lindaura/lindaura/46553
+#EXTINF:-1,Game of Thrones S03
+http://51.89.98.62:8080/lindaura/lindaura/46554
+#EXTINF:-1,Game of Thrones S04
+http://51.89.98.62:8080/lindaura/lindaura/46555
+#EXTINF:-1,Game of Thrones S05
+http://51.89.98.62:8080/lindaura/lindaura/46556
+#EXTINF:-1,Game of Thrones S06
+http://51.89.98.62:8080/lindaura/lindaura/46557
+#EXTINF:-1,Game of Thrones S07
+http://51.89.98.62:8080/lindaura/lindaura/46558
+#EXTINF:-1,Game of Thrones S08
+http://51.89.98.62:8080/lindaura/lindaura/46559
+#EXTINF:-1,GLOBO BELO HORIZONTE HD
+http://51.89.98.62:8080/lindaura/lindaura/50270
+#EXTINF:-1,GLOBO BRASILIA HD
+http://51.89.98.62:8080/lindaura/lindaura/50256
+#EXTINF:-1,GLOBO CENTRO AMERICA HD
+http://51.89.98.62:8080/lindaura/lindaura/50271
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://51.89.98.62:8080/lindaura/lindaura/50272
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
+http://51.89.98.62:8080/lindaura/lindaura/50257
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
+http://51.89.98.62:8080/lindaura/lindaura/50273
+#EXTINF:-1,GLOBO EPTV SUL MINAS HD
+http://51.89.98.62:8080/lindaura/lindaura/50258
+#EXTINF:-1,GLOBO GRANDE MINAS HD
+http://51.89.98.62:8080/lindaura/lindaura/50259
+#EXTINF:-1,GLOBO INTEGRAÇÃO HD
+http://51.89.98.62:8080/lindaura/lindaura/50260
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD
+http://51.89.98.62:8080/lindaura/lindaura/50274
+#EXTINF:-1,GLOBO INTER TV CABUGI HD
+http://51.89.98.62:8080/lindaura/lindaura/50275
+#EXTINF:-1,GLOBO INTER TV DOS VALES HD
+http://51.89.98.62:8080/lindaura/lindaura/50276
+#EXTINF:-1,GLOBO MINAS HD
+http://51.89.98.62:8080/lindaura/lindaura/50261
+#EXTINF:-1,GLOBO NEWS HD
+http://51.89.98.62:8080/lindaura/lindaura/50262
+#EXTINF:-1,GLOBO NORDESTE HD
+http://51.89.98.62:8080/lindaura/lindaura/50263
+#EXTINF:-1,GLOBO NSC BLUMENAU HD
+http://51.89.98.62:8080/lindaura/lindaura/50277
+#EXTINF:-1,GLOBO NSC CHAPECO HD
+http://51.89.98.62:8080/lindaura/lindaura/50278
+#EXTINF:-1,GLOBO NSC CRICIUMA HD
+http://51.89.98.62:8080/lindaura/lindaura/50279
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS HD
+http://51.89.98.62:8080/lindaura/lindaura/50264
+#EXTINF:-1,GLOBO NSC JOINVILLE HD
+http://51.89.98.62:8080/lindaura/lindaura/50280
+#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS HD
+http://51.89.98.62:8080/lindaura/lindaura/50281
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
+http://51.89.98.62:8080/lindaura/lindaura/50265
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
+http://51.89.98.62:8080/lindaura/lindaura/50282
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
+http://51.89.98.62:8080/lindaura/lindaura/50283
+#EXTINF:-1,GLOBO RBS TV PASSO FUNDO HD
+http://51.89.98.62:8080/lindaura/lindaura/50284
+#EXTINF:-1,GLOBO RBS TV PELOTAS HD
+http://51.89.98.62:8080/lindaura/lindaura/50285
+#EXTINF:-1,GLOBO REDE AMAZONICA RONDONIA HD
+http://51.89.98.62:8080/lindaura/lindaura/50286
+#EXTINF:-1,GLOBO RJ HD
+http://51.89.98.62:8080/lindaura/lindaura/50266
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://51.89.98.62:8080/lindaura/lindaura/50287
+#EXTINF:-1,GLOBO RPC FOZ DO IGUACU HD
+http://51.89.98.62:8080/lindaura/lindaura/50288
+#EXTINF:-1,GLOBO RPC PARANAVAI HD
+http://51.89.98.62:8080/lindaura/lindaura/50289
+#EXTINF:-1,GLOBO RPC TV PONTA GROSSA HD
+http://51.89.98.62:8080/lindaura/lindaura/50290
+#EXTINF:-1,GLOBO SP HD
+http://51.89.98.62:8080/lindaura/lindaura/50267
+#EXTINF:-1,GLOBO TV ALAGOAS HD
+http://51.89.98.62:8080/lindaura/lindaura/50291
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+http://51.89.98.62:8080/lindaura/lindaura/50292
+#EXTINF:-1,GLOBO TV BAHIA HD
+http://51.89.98.62:8080/lindaura/lindaura/50293
+#EXTINF:-1,GLOBO TV BELEM HD
+http://51.89.98.62:8080/lindaura/lindaura/50268
+#EXTINF:-1,GLOBO TV DIARIO HD
+http://51.89.98.62:8080/lindaura/lindaura/50294
+#EXTINF:-1,GLOBO TV FRONTEIRA HD
+http://51.89.98.62:8080/lindaura/lindaura/50295
+#EXTINF:-1,GLOBO TV GAZETA SUL HD
+http://51.89.98.62:8080/lindaura/lindaura/50296
+#EXTINF:-1,GLOBO TV INTEG. ARAXA HD
+http://51.89.98.62:8080/lindaura/lindaura/50297
+#EXTINF:-1,GLOBO TV INTEG. JUIZ DE FORA HD
+http://51.89.98.62:8080/lindaura/lindaura/50298
+#EXTINF:-1,GLOBO TV MORENA HD
+http://51.89.98.62:8080/lindaura/lindaura/50299
+#EXTINF:-1,GLOBO TV NORDESTE HD
+http://51.89.98.62:8080/lindaura/lindaura/50300
+#EXTINF:-1,GLOBO TV RIO SUL HD
+http://51.89.98.62:8080/lindaura/lindaura/50301
+#EXTINF:-1,GLOBO TV SERRA MAR HD
+http://51.89.98.62:8080/lindaura/lindaura/50302
+#EXTINF:-1,GLOBO TV TEM BAURU HD
+http://51.89.98.62:8080/lindaura/lindaura/50303
+#EXTINF:-1,GLOBO TV TEM S.J.R.PRETO HD
+http://51.89.98.62:8080/lindaura/lindaura/50269
+#EXTINF:-1,GLOBO TV TEM SJR.PRETO HD
+http://51.89.98.62:8080/lindaura/lindaura/50304
+#EXTINF:-1,GLOBO TV TEM SOROCABA HD
+http://51.89.98.62:8080/lindaura/lindaura/50305
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS HD
+http://51.89.98.62:8080/lindaura/lindaura/50306
+#EXTINF:-1,GLOBO TV VANG. S.J. CAMPOS HD
+http://51.89.98.62:8080/lindaura/lindaura/50307
+#EXTINF:-1,GLOBO TV VANG. TAUBATE HD
+http://51.89.98.62:8080/lindaura/lindaura/50308
+#EXTINF:-1,GLOBO TV VITORIA HD
+http://51.89.98.62:8080/lindaura/lindaura/50309
+#EXTINF:-1,GLOBO VERDES MARES HD
+http://51.89.98.62:8080/lindaura/lindaura/50310
+#EXTINF:-1,GloboNews HD
+http://51.89.98.62:8080/lindaura/lindaura/143
+#EXTINF:-1,GloboNews SD
+http://51.89.98.62:8080/lindaura/lindaura/142
+#EXTINF:-1,Gloob HD
+http://51.89.98.62:8080/lindaura/lindaura/530
+#EXTINF:-1,Gloob SD
+http://51.89.98.62:8080/lindaura/lindaura/140
+#EXTINF:-1,GNT HD
+http://51.89.98.62:8080/lindaura/lindaura/139
+#EXTINF:-1,GNT SD
+http://51.89.98.62:8080/lindaura/lindaura/138
+#EXTINF:-1,Gospel Internacional
+http://51.89.98.62:8080/lindaura/lindaura/49272
+#EXTINF:-1,Grandes Sucesso Raul Seixas
+http://51.89.98.62:8080/lindaura/lindaura/49281
+#EXTINF:-1,Greatest Hits of Hip Hop
+http://51.89.98.62:8080/lindaura/lindaura/23541
+#EXTINF:-1,H2 FHD
+http://51.89.98.62:8080/lindaura/lindaura/20260
+#EXTINF:-1,H2 HD
+http://51.89.98.62:8080/lindaura/lindaura/137
+#EXTINF:-1,H2 SD
+http://51.89.98.62:8080/lindaura/lindaura/523
+#EXTINF:-1,HBO 2 FHD
+http://51.89.98.62:8080/lindaura/lindaura/19528
+#EXTINF:-1,HBO 2 HD
+http://51.89.98.62:8080/lindaura/lindaura/135
+#EXTINF:-1,HBO 2 SD
+http://51.89.98.62:8080/lindaura/lindaura/134
+#EXTINF:-1,HBO Family FHD
+http://51.89.98.62:8080/lindaura/lindaura/19530
+#EXTINF:-1,HBO Family HD
+http://51.89.98.62:8080/lindaura/lindaura/133
+#EXTINF:-1,HBO Family SD
+http://51.89.98.62:8080/lindaura/lindaura/132
+#EXTINF:-1,HBO FHD
+http://51.89.98.62:8080/lindaura/lindaura/19527
+#EXTINF:-1,HBO HD
+http://51.89.98.62:8080/lindaura/lindaura/131
+#EXTINF:-1,HBO MAX STAR+ 01
+http://51.89.98.62:8080/lindaura/lindaura/47759
+#EXTINF:-1,HBO MAX STAR+ 02
+http://51.89.98.62:8080/lindaura/lindaura/47761
+#EXTINF:-1,HBO MAX STAR+ 03
+http://51.89.98.62:8080/lindaura/lindaura/47760
+#EXTINF:-1,HBO Mundi FHD
+http://51.89.98.62:8080/lindaura/lindaura/20316
+#EXTINF:-1,HBO Mundi HD
+http://51.89.98.62:8080/lindaura/lindaura/521
+#EXTINF:-1,HBO Mundi SD
+http://51.89.98.62:8080/lindaura/lindaura/112
+#EXTINF:-1,HBO Plus FHD
+http://51.89.98.62:8080/lindaura/lindaura/19529
+#EXTINF:-1,HBO Plus HD
+http://51.89.98.62:8080/lindaura/lindaura/128
+#EXTINF:-1,HBO Plus SD
+http://51.89.98.62:8080/lindaura/lindaura/127
+#EXTINF:-1,HBO Pop FHD
+http://51.89.98.62:8080/lindaura/lindaura/19532
+#EXTINF:-1,HBO Pop HD
+http://51.89.98.62:8080/lindaura/lindaura/111
+#EXTINF:-1,HBO Pop SD
+http://51.89.98.62:8080/lindaura/lindaura/110
+#EXTINF:-1,HBO SD
+http://51.89.98.62:8080/lindaura/lindaura/126
+#EXTINF:-1,HBO Signature FHD
+http://51.89.98.62:8080/lindaura/lindaura/19531
+#EXTINF:-1,HBO Signature HD
+http://51.89.98.62:8080/lindaura/lindaura/531
+#EXTINF:-1,HBO Signature SD
+http://51.89.98.62:8080/lindaura/lindaura/124
+#EXTINF:-1,HBO Xtreme FHD
+http://51.89.98.62:8080/lindaura/lindaura/20317
+#EXTINF:-1,HBO Xtreme HD
+http://51.89.98.62:8080/lindaura/lindaura/520
+#EXTINF:-1,HBO Xtreme SD
+http://51.89.98.62:8080/lindaura/lindaura/113
+#EXTINF:-1,Hercules
+http://51.89.98.62:8080/lindaura/lindaura/43964
+#EXTINF:-1,HGTV HD
+http://51.89.98.62:8080/lindaura/lindaura/193
+#EXTINF:-1,HGTV SD
+http://51.89.98.62:8080/lindaura/lindaura/192
+#EXTINF:-1,Hip Hop
+http://51.89.98.62:8080/lindaura/lindaura/49253
+#EXTINF:-1,History Channel FHD
+http://51.89.98.62:8080/lindaura/lindaura/20231
+#EXTINF:-1,History Channel HD
+http://51.89.98.62:8080/lindaura/lindaura/532
+#EXTINF:-1,History Channel SD
+http://51.89.98.62:8080/lindaura/lindaura/122
+#EXTINF:-1,Hits 90's
+http://51.89.98.62:8080/lindaura/lindaura/23534
+#EXTINF:-1,Hits Anos 80
+http://51.89.98.62:8080/lindaura/lindaura/23535
+#EXTINF:-1,Homem-Aranha
+http://51.89.98.62:8080/lindaura/lindaura/43876
+#EXTINF:-1,Homem-Aranha 24H
+http://51.89.98.62:8080/lindaura/lindaura/566
+#EXTINF:-1,Hora do Recreio (1997)
+http://51.89.98.62:8080/lindaura/lindaura/49725
+#EXTINF:-1,HULK CLÁSSICO - 24H
+http://51.89.98.62:8080/lindaura/lindaura/25540
+#EXTINF:-1,ID FHD
+http://51.89.98.62:8080/lindaura/lindaura/20254
+#EXTINF:-1,ID HD
+http://51.89.98.62:8080/lindaura/lindaura/121
+#EXTINF:-1,ID SD
+http://51.89.98.62:8080/lindaura/lindaura/120
+#EXTINF:-1,Jackson Five (1971)
+http://51.89.98.62:8080/lindaura/lindaura/49765
+#EXTINF:-1,Jaspion 24H
+http://51.89.98.62:8080/lindaura/lindaura/570
+#EXTINF:-1,JIBAN 24H
+http://51.89.98.62:8080/lindaura/lindaura/40784
+#EXTINF:-1,Johnny Bravo (1997)
+http://51.89.98.62:8080/lindaura/lindaura/42938
+#EXTINF:-1,Jovem Pan Anos 2000
+http://51.89.98.62:8080/lindaura/lindaura/23670
+#EXTINF:-1,Jovem Pan Anos 80
+http://51.89.98.62:8080/lindaura/lindaura/23668
+#EXTINF:-1,Jovem Pan Anos 90
+http://51.89.98.62:8080/lindaura/lindaura/23669
+#EXTINF:-1,Jovem Pan FM Piracicaba
+http://51.89.98.62:8080/lindaura/lindaura/23662
+#EXTINF:-1,Jovem Pan News HD
+http://51.89.98.62:8080/lindaura/lindaura/47532
+#EXTINF:-1,Jovem Pan News SD
+http://51.89.98.62:8080/lindaura/lindaura/47533
+#EXTINF:-1,Jovem Pan Pagode
+http://51.89.98.62:8080/lindaura/lindaura/23655
+#EXTINF:-1,Jovem Pan Sertanejo
+http://51.89.98.62:8080/lindaura/lindaura/23667
+#EXTINF:-1,Jurassic World Acampamento Jurassico (2020)
+http://51.89.98.62:8080/lindaura/lindaura/42940
+#EXTINF:-1,Kids 1
+http://51.89.98.62:8080/lindaura/lindaura/49783
+#EXTINF:-1,Kids 2
+http://51.89.98.62:8080/lindaura/lindaura/49786
+#EXTINF:-1,Kids 3
+http://51.89.98.62:8080/lindaura/lindaura/49787
+#EXTINF:-1,Kids 4
+http://51.89.98.62:8080/lindaura/lindaura/49789
+#EXTINF:-1,Kids 5
+http://51.89.98.62:8080/lindaura/lindaura/49791
+#EXTINF:-1,Kids 6
+http://51.89.98.62:8080/lindaura/lindaura/49794
+#EXTINF:-1,Kim Possible (2002)
+http://51.89.98.62:8080/lindaura/lindaura/42935
+#EXTINF:-1,Kimba, o Leao Branco (1966)
+http://51.89.98.62:8080/lindaura/lindaura/42934
+#EXTINF:-1,KND - A Turma do Bairro
+http://51.89.98.62:8080/lindaura/lindaura/46519
+#EXTINF:-1,La casa de papel (2017)
+http://51.89.98.62:8080/lindaura/lindaura/42945
+#EXTINF:-1,Largados e Pelados
+http://51.89.98.62:8080/lindaura/lindaura/42008
+#EXTINF:-1,Larva 24H
+http://51.89.98.62:8080/lindaura/lindaura/1474
+#EXTINF:-1,Lifetime FHD
+http://51.89.98.62:8080/lindaura/lindaura/20252
+#EXTINF:-1,Lifetime HD
+http://51.89.98.62:8080/lindaura/lindaura/522
+#EXTINF:-1,Lifetime SD
+http://51.89.98.62:8080/lindaura/lindaura/118
+#EXTINF:-1,Lion Man 24H
+http://51.89.98.62:8080/lindaura/lindaura/1473
+#EXTINF:-1,LOADING HD
+http://51.89.98.62:8080/lindaura/lindaura/48350
+#EXTINF:-1,LOADING SD
+http://51.89.98.62:8080/lindaura/lindaura/48351
+#EXTINF:-1,Looney Tunnes 24H
+http://51.89.98.62:8080/lindaura/lindaura/565
+#EXTINF:-1,Louvores de Adoração
+http://51.89.98.62:8080/lindaura/lindaura/49273
+#EXTINF:-1,Luluzinha (1995)
+http://51.89.98.62:8080/lindaura/lindaura/49795
+#EXTINF:-1,MacGyver Profissão: Perigo
+http://51.89.98.62:8080/lindaura/lindaura/42949
+#EXTINF:-1,Mais Globosat HD
+http://51.89.98.62:8080/lindaura/lindaura/117
+#EXTINF:-1,Mais Globosat SD
+http://51.89.98.62:8080/lindaura/lindaura/116
+#EXTINF:-1,MAIS NA TELA HD
+http://51.89.98.62:8080/lindaura/lindaura/48377
+#EXTINF:-1,MAIS NA TELA SD
+http://51.89.98.62:8080/lindaura/lindaura/48378
+#EXTINF:-1,Masha e o Urso (2009)
+http://51.89.98.62:8080/lindaura/lindaura/49778
+#EXTINF:-1,Megapix HD
+http://51.89.98.62:8080/lindaura/lindaura/109
+#EXTINF:-1,Megapix SD
+http://51.89.98.62:8080/lindaura/lindaura/108
+#EXTINF:-1,Melhores da Pam
+http://51.89.98.62:8080/lindaura/lindaura/49245
+#EXTINF:-1,Mickey Mania (1999)
+http://51.89.98.62:8080/lindaura/lindaura/42933
+#EXTINF:-1,Monstros no Trabalho (2021)
+http://51.89.98.62:8080/lindaura/lindaura/49797
+#EXTINF:-1,MR. Bean 24H
+http://51.89.98.62:8080/lindaura/lindaura/546
+#EXTINF:-1,MTV 00s FHD
+http://51.89.98.62:8080/lindaura/lindaura/20262
+#EXTINF:-1,MTV 00s HD
+http://51.89.98.62:8080/lindaura/lindaura/8
+#EXTINF:-1,MTV 00s SD
+http://51.89.98.62:8080/lindaura/lindaura/7
+#EXTINF:-1,MTV FHD
+http://51.89.98.62:8080/lindaura/lindaura/20261
+#EXTINF:-1,MTV HD
+http://51.89.98.62:8080/lindaura/lindaura/519
+#EXTINF:-1,MTV Live HD
+http://51.89.98.62:8080/lindaura/lindaura/20465
+#EXTINF:-1,MTV LIVE SD
+http://51.89.98.62:8080/lindaura/lindaura/48337
+#EXTINF:-1,MTV SD
+http://51.89.98.62:8080/lindaura/lindaura/106
+#EXTINF:-1,Multishow HD
+http://51.89.98.62:8080/lindaura/lindaura/105
+#EXTINF:-1,Multishow SD
+http://51.89.98.62:8080/lindaura/lindaura/104
+#EXTINF:-1,Mundo de Gunball 24H
+http://51.89.98.62:8080/lindaura/lindaura/40785
+#EXTINF:-1,Music Box Brazil HD
+http://51.89.98.62:8080/lindaura/lindaura/48342
+#EXTINF:-1,Music Box Brazil SD
+http://51.89.98.62:8080/lindaura/lindaura/48343
+#EXTINF:-1,Musicas Classicas
+http://51.89.98.62:8080/lindaura/lindaura/49264
+#EXTINF:-1,Mutante Rex (2010)
+http://51.89.98.62:8080/lindaura/lindaura/49749
+#EXTINF:-1,My Little Pony (1986)
+http://51.89.98.62:8080/lindaura/lindaura/49747
+#EXTINF:-1,Naruto 24H
+http://51.89.98.62:8080/lindaura/lindaura/564
+#EXTINF:-1,Nat Geo Kids FHD
+http://51.89.98.62:8080/lindaura/lindaura/20312
+#EXTINF:-1,Nat Geo Kids HD
+http://51.89.98.62:8080/lindaura/lindaura/518
+#EXTINF:-1,Nat Geo Kids SD
+http://51.89.98.62:8080/lindaura/lindaura/102
+#EXTINF:-1,Nat Geo Wild FHD
+http://51.89.98.62:8080/lindaura/lindaura/20273
+#EXTINF:-1,Nat Geo Wild HD
+http://51.89.98.62:8080/lindaura/lindaura/101
+#EXTINF:-1,Nat Geo Wild SD
+http://51.89.98.62:8080/lindaura/lindaura/100
+#EXTINF:-1,National Geographic FHD
+http://51.89.98.62:8080/lindaura/lindaura/20272
+#EXTINF:-1,National Geographic HD
+http://51.89.98.62:8080/lindaura/lindaura/99
+#EXTINF:-1,National Geographic SD
+http://51.89.98.62:8080/lindaura/lindaura/98
+#EXTINF:-1,NHK HD
+http://51.89.98.62:8080/lindaura/lindaura/97
+#EXTINF:-1,NHK SD
+http://51.89.98.62:8080/lindaura/lindaura/96
+#EXTINF:-1,Nick Jr. FHD
+http://51.89.98.62:8080/lindaura/lindaura/20314
+#EXTINF:-1,Nick Jr. HD
+http://51.89.98.62:8080/lindaura/lindaura/95
+#EXTINF:-1,Nick Jr. SD
+http://51.89.98.62:8080/lindaura/lindaura/94
+#EXTINF:-1,Nickelodeon FHD
+http://51.89.98.62:8080/lindaura/lindaura/20313
+#EXTINF:-1,Nickelodeon HD
+http://51.89.98.62:8080/lindaura/lindaura/93
+#EXTINF:-1,Nickelodeon SD
+http://51.89.98.62:8080/lindaura/lindaura/92
+#EXTINF:-1,Nova Brasil FM Campinas
+http://51.89.98.62:8080/lindaura/lindaura/23671
+#EXTINF:-1,O Chefinho De Volta aos Negocios (2018)
+http://51.89.98.62:8080/lindaura/lindaura/49799
+#EXTINF:-1,O Laboratório de Dexter (1996)
+http://51.89.98.62:8080/lindaura/lindaura/49781
+#EXTINF:-1,O Pequeno Urso (1995)
+http://51.89.98.62:8080/lindaura/lindaura/49773
+#EXTINF:-1,O Pica-Pau
+http://51.89.98.62:8080/lindaura/lindaura/42953
+#EXTINF:-1,O Show da Luna (2014)
+http://51.89.98.62:8080/lindaura/lindaura/49801
+#EXTINF:-1,O Show do Scooby Doo
+http://51.89.98.62:8080/lindaura/lindaura/28140
+#EXTINF:-1,O Xodó da Vovó
+http://51.89.98.62:8080/lindaura/lindaura/44572
+#EXTINF:-1,OFF HD
+http://51.89.98.62:8080/lindaura/lindaura/209
+#EXTINF:-1,OFF SD
+http://51.89.98.62:8080/lindaura/lindaura/208
+#EXTINF:-1,One Love Hip Hop
+http://51.89.98.62:8080/lindaura/lindaura/23539
+#EXTINF:-1,Os 3 patetas 24H
+http://51.89.98.62:8080/lindaura/lindaura/19540
+#EXTINF:-1,Os Flintstones
+http://51.89.98.62:8080/lindaura/lindaura/45079
+#EXTINF:-1,Os Jetsons
+http://51.89.98.62:8080/lindaura/lindaura/46520
+#EXTINF:-1,Os Padrinhos Magicos (2001)
+http://51.89.98.62:8080/lindaura/lindaura/49720
+#EXTINF:-1,Os Simpsons
+http://51.89.98.62:8080/lindaura/lindaura/42954
+#EXTINF:-1,Os Simpsons 24H
+http://51.89.98.62:8080/lindaura/lindaura/563
+#EXTINF:-1,Os Trapalhões
+http://51.89.98.62:8080/lindaura/lindaura/44184
+#EXTINF:-1,Os Vingadores 24H
+http://51.89.98.62:8080/lindaura/lindaura/1482
+#EXTINF:-1,Pai Eterno HD
+http://51.89.98.62:8080/lindaura/lindaura/23850
+#EXTINF:-1,Paramount Channel FHD
+http://51.89.98.62:8080/lindaura/lindaura/20264
+#EXTINF:-1,Paramount Channel HD
+http://51.89.98.62:8080/lindaura/lindaura/91
+#EXTINF:-1,Paramount Channel SD
+http://51.89.98.62:8080/lindaura/lindaura/90
+#EXTINF:-1,Patrulha Canina
+http://51.89.98.62:8080/lindaura/lindaura/44574
+#EXTINF:-1,Patrulha Canina (2013)
+http://51.89.98.62:8080/lindaura/lindaura/49743
+#EXTINF:-1,Peppa Pig 24H
+http://51.89.98.62:8080/lindaura/lindaura/562
+#EXTINF:-1,Perdidos no Espaço
+http://51.89.98.62:8080/lindaura/lindaura/44268
+#EXTINF:-1,Pica-Pau (2018)
+http://51.89.98.62:8080/lindaura/lindaura/49761
+#EXTINF:-1,Playboy FHD
+http://51.89.98.62:8080/lindaura/lindaura/20315
+#EXTINF:-1,Playboy HD
+http://51.89.98.62:8080/lindaura/lindaura/88
+#EXTINF:-1,Playboy SD
+http://51.89.98.62:8080/lindaura/lindaura/87
+#EXTINF:-1,Pocoyo 24H
+http://51.89.98.62:8080/lindaura/lindaura/561
+#EXTINF:-1,Pokemon 24H
+http://51.89.98.62:8080/lindaura/lindaura/560
+#EXTINF:-1,Polishop TV HD
+http://51.89.98.62:8080/lindaura/lindaura/49113
+#EXTINF:-1,Polishop TV SD
+http://51.89.98.62:8080/lindaura/lindaura/49114
+#EXTINF:-1,Pop Rock Hits
+http://51.89.98.62:8080/lindaura/lindaura/49276
+#EXTINF:-1,Pop Rock Nacional
+http://51.89.98.62:8080/lindaura/lindaura/49275
+#EXTINF:-1,Premiere 1 HD
+http://51.89.98.62:8080/lindaura/lindaura/86
+#EXTINF:-1,Premiere 1 HD²
+http://51.89.98.62:8080/lindaura/lindaura/247
+#EXTINF:-1,Premiere 1 HD³
+http://51.89.98.62:8080/lindaura/lindaura/46681
+#EXTINF:-1,Premiere 1 SD
+http://51.89.98.62:8080/lindaura/lindaura/85
+#EXTINF:-1,Premiere 2 HD
+http://51.89.98.62:8080/lindaura/lindaura/13216
+#EXTINF:-1,Premiere 2 HD²
+http://51.89.98.62:8080/lindaura/lindaura/1462
+#EXTINF:-1,Premiere 2 SD
+http://51.89.98.62:8080/lindaura/lindaura/83
+#EXTINF:-1,Premiere 3 HD
+http://51.89.98.62:8080/lindaura/lindaura/82
+#EXTINF:-1,Premiere 3 HD²
+http://51.89.98.62:8080/lindaura/lindaura/1463
+#EXTINF:-1,Premiere 3 SD
+http://51.89.98.62:8080/lindaura/lindaura/81
+#EXTINF:-1,Premiere 4 HD
+http://51.89.98.62:8080/lindaura/lindaura/80
+#EXTINF:-1,Premiere 4 HD²
+http://51.89.98.62:8080/lindaura/lindaura/1464
+#EXTINF:-1,Premiere 4 SD
+http://51.89.98.62:8080/lindaura/lindaura/79
+#EXTINF:-1,Premiere 5 HD
+http://51.89.98.62:8080/lindaura/lindaura/78
+#EXTINF:-1,Premiere 5 HD²
+http://51.89.98.62:8080/lindaura/lindaura/1465
+#EXTINF:-1,Premiere 5 SD
+http://51.89.98.62:8080/lindaura/lindaura/77
+#EXTINF:-1,Premiere 6 HD
+http://51.89.98.62:8080/lindaura/lindaura/76
+#EXTINF:-1,Premiere 6 SD
+http://51.89.98.62:8080/lindaura/lindaura/75
+#EXTINF:-1,Premiere 7 HD
+http://51.89.98.62:8080/lindaura/lindaura/74
+#EXTINF:-1,Premiere 7 HD²
+http://51.89.98.62:8080/lindaura/lindaura/1467
+#EXTINF:-1,Prime Box Brazil HD
+http://51.89.98.62:8080/lindaura/lindaura/48344
+#EXTINF:-1,Prime Box Brazil SD
+http://51.89.98.62:8080/lindaura/lindaura/48345
+#EXTINF:-1,Radio Mania FM
+http://51.89.98.62:8080/lindaura/lindaura/23678
+#EXTINF:-1,Radio Modão Sertanejo
+http://51.89.98.62:8080/lindaura/lindaura/23658
+#EXTINF:-1,Radio Zig Zag
+http://51.89.98.62:8080/lindaura/lindaura/23653
+#EXTINF:-1,RAI HD
+http://51.89.98.62:8080/lindaura/lindaura/49117
+#EXTINF:-1,RAI SD
+http://51.89.98.62:8080/lindaura/lindaura/49118
+#EXTINF:-1,Rap - Internacional
+http://51.89.98.62:8080/lindaura/lindaura/23538
+#EXTINF:-1,Rap Nacional
+http://51.89.98.62:8080/lindaura/lindaura/49277
+#EXTINF:-1,RECORD BAHIA HD
+http://51.89.98.62:8080/lindaura/lindaura/50368
+#EXTINF:-1,Record BH HD
+http://51.89.98.62:8080/lindaura/lindaura/50369
+#EXTINF:-1,RECORD CAMPINAS HD
+http://51.89.98.62:8080/lindaura/lindaura/50380
+#EXTINF:-1,RECORD DF HD
+http://51.89.98.62:8080/lindaura/lindaura/50370
+#EXTINF:-1,RECORD DF HD
+http://51.89.98.62:8080/lindaura/lindaura/50371
+#EXTINF:-1,Record HD
+http://51.89.98.62:8080/lindaura/lindaura/240
+#EXTINF:-1,Record HD 2
+http://51.89.98.62:8080/lindaura/lindaura/68
+#EXTINF:-1,RECORD INTERIOR SP HD
+http://51.89.98.62:8080/lindaura/lindaura/50377
+#EXTINF:-1,RECORD MG HD
+http://51.89.98.62:8080/lindaura/lindaura/50372
+#EXTINF:-1,Record News HD
+http://51.89.98.62:8080/lindaura/lindaura/67
+#EXTINF:-1,Record News SD
+http://51.89.98.62:8080/lindaura/lindaura/66
+#EXTINF:-1,RECORD PA HD
+http://51.89.98.62:8080/lindaura/lindaura/50373
+#EXTINF:-1,RECORD PA HD
+http://51.89.98.62:8080/lindaura/lindaura/50382
+#EXTINF:-1,RECORD PAULISTA HD
+http://51.89.98.62:8080/lindaura/lindaura/50378
+#EXTINF:-1,RECORD RJ HD
+http://51.89.98.62:8080/lindaura/lindaura/50374
+#EXTINF:-1,RECORD RS HD
+http://51.89.98.62:8080/lindaura/lindaura/50375
+#EXTINF:-1,Record SD
+http://51.89.98.62:8080/lindaura/lindaura/239
+#EXTINF:-1,RECORD SJR.PRETO HD
+http://51.89.98.62:8080/lindaura/lindaura/50381
+#EXTINF:-1,Record SP HD
+http://51.89.98.62:8080/lindaura/lindaura/65
+#EXTINF:-1,RECORD SP HD
+http://51.89.98.62:8080/lindaura/lindaura/50376
+#EXTINF:-1,Record SP SD
+http://51.89.98.62:8080/lindaura/lindaura/64
+#EXTINF:-1,RECORD VILA REAL HD
+http://51.89.98.62:8080/lindaura/lindaura/50379
+#EXTINF:-1,Rede Família SD
+http://51.89.98.62:8080/lindaura/lindaura/48346
+#EXTINF:-1,Rede Família SHD
+http://51.89.98.62:8080/lindaura/lindaura/31823
+#EXTINF:-1,Rede Massa SBT HD
+http://51.89.98.62:8080/lindaura/lindaura/34300
+#EXTINF:-1,Rede Vida HD
+http://51.89.98.62:8080/lindaura/lindaura/62
+#EXTINF:-1,Rede Vida SD
+http://51.89.98.62:8080/lindaura/lindaura/63
+#EXTINF:-1,RedeTV HD
+http://51.89.98.62:8080/lindaura/lindaura/61
+#EXTINF:-1,RedeTV SD
+http://51.89.98.62:8080/lindaura/lindaura/60
+#EXTINF:-1,Retro Baladas
+http://51.89.98.62:8080/lindaura/lindaura/23675
+#EXTINF:-1,Romanticas Internacional
+http://51.89.98.62:8080/lindaura/lindaura/49279
+#EXTINF:-1,Rá -Tim Bum- HD
+http://51.89.98.62:8080/lindaura/lindaura/70
+#EXTINF:-1,Rá- Tim- Bum SD
+http://51.89.98.62:8080/lindaura/lindaura/69
+#EXTINF:-1,Rádio 105 FM
+http://51.89.98.62:8080/lindaura/lindaura/23674
+#EXTINF:-1,Rádio Antena 1 São Paulo
+http://51.89.98.62:8080/lindaura/lindaura/23659
+#EXTINF:-1,Rádio CBN São Paulo
+http://51.89.98.62:8080/lindaura/lindaura/23661
+#EXTINF:-1,Rádio Coringão
+http://51.89.98.62:8080/lindaura/lindaura/23660
+#EXTINF:-1,Rádio Hunter FM Sertanejo
+http://51.89.98.62:8080/lindaura/lindaura/23657
+#EXTINF:-1,Rádio Laser FM Campinas
+http://51.89.98.62:8080/lindaura/lindaura/23656
+#EXTINF:-1,Rádio Samba FM
+http://51.89.98.62:8080/lindaura/lindaura/23654
+#EXTINF:-1,Sabor & Arte HD
+http://51.89.98.62:8080/lindaura/lindaura/48329
+#EXTINF:-1,Sabor & Arte SD
+http://51.89.98.62:8080/lindaura/lindaura/48330
+#EXTINF:-1,SBT HD
+http://51.89.98.62:8080/lindaura/lindaura/59
+#EXTINF:-1,SBT SD
+http://51.89.98.62:8080/lindaura/lindaura/58
+#EXTINF:-1,Sertanejo Antigo
+http://51.89.98.62:8080/lindaura/lindaura/49246
+#EXTINF:-1,Sertanejo Raiz
+http://51.89.98.62:8080/lindaura/lindaura/49280
+#EXTINF:-1,Sextreme HD
+http://51.89.98.62:8080/lindaura/lindaura/57
+#EXTINF:-1,Sextreme SD
+http://51.89.98.62:8080/lindaura/lindaura/56
+#EXTINF:-1,Sexy Hot HD
+http://51.89.98.62:8080/lindaura/lindaura/55
+#EXTINF:-1,Sexy Hot SD
+http://51.89.98.62:8080/lindaura/lindaura/54
+#EXTINF:-1,Shoptime HD
+http://51.89.98.62:8080/lindaura/lindaura/49123
+#EXTINF:-1,Shoptime SD
+http://51.89.98.62:8080/lindaura/lindaura/49124
+#EXTINF:-1,Smithsonian FHD
+http://51.89.98.62:8080/lindaura/lindaura/20309
+#EXTINF:-1,Smithsonian HD
+http://51.89.98.62:8080/lindaura/lindaura/20463
+#EXTINF:-1,Smithsonian SD
+http://51.89.98.62:8080/lindaura/lindaura/48349
+#EXTINF:-1,Sony Channel FHD
+http://51.89.98.62:8080/lindaura/lindaura/20233
+#EXTINF:-1,Sony Channel HD
+http://51.89.98.62:8080/lindaura/lindaura/53
+#EXTINF:-1,Sony Channel SD
+http://51.89.98.62:8080/lindaura/lindaura/52
+#EXTINF:-1,Space FHD
+http://51.89.98.62:8080/lindaura/lindaura/20271
+#EXTINF:-1,Space HD
+http://51.89.98.62:8080/lindaura/lindaura/51
+#EXTINF:-1,Space SD
+http://51.89.98.62:8080/lindaura/lindaura/50
+#EXTINF:-1,SporTV HD
+http://51.89.98.62:8080/lindaura/lindaura/49
+#EXTINF:-1,SporTV SD
+http://51.89.98.62:8080/lindaura/lindaura/48
+#EXTINF:-1,SporTV 2 HD
+http://51.89.98.62:8080/lindaura/lindaura/47
+#EXTINF:-1,SporTV 2 SD
+http://51.89.98.62:8080/lindaura/lindaura/46
+#EXTINF:-1,SporTV 3 HD
+http://51.89.98.62:8080/lindaura/lindaura/45
+#EXTINF:-1,SporTV 3 SD
+http://51.89.98.62:8080/lindaura/lindaura/44
+#EXTINF:-1,Star Channel FHD
+http://51.89.98.62:8080/lindaura/lindaura/20274
+#EXTINF:-1,Star Channel HD
+http://51.89.98.62:8080/lindaura/lindaura/157
+#EXTINF:-1,Star Channel SD
+http://51.89.98.62:8080/lindaura/lindaura/150
+#EXTINF:-1,Star Hits 2 FHD
+http://51.89.98.62:8080/lindaura/lindaura/20251
+#EXTINF:-1,Star Hits 2 HD
+http://51.89.98.62:8080/lindaura/lindaura/526
+#EXTINF:-1,Star Hits 2 SD
+http://51.89.98.62:8080/lindaura/lindaura/527
+#EXTINF:-1,Star Hits FHD
+http://51.89.98.62:8080/lindaura/lindaura/20250
+#EXTINF:-1,Star Hits HD
+http://51.89.98.62:8080/lindaura/lindaura/528
+#EXTINF:-1,Star Hits SD
+http://51.89.98.62:8080/lindaura/lindaura/151
+#EXTINF:-1,Star Life FHD
+http://51.89.98.62:8080/lindaura/lindaura/20245
+#EXTINF:-1,Star Life HD
+http://51.89.98.62:8080/lindaura/lindaura/156
+#EXTINF:-1,Star Life SD
+http://51.89.98.62:8080/lindaura/lindaura/155
+#EXTINF:-1,Star Plus HD
+http://51.89.98.62:8080/lindaura/lindaura/46598
+#EXTINF:-1,Star Plus SD
+http://51.89.98.62:8080/lindaura/lindaura/46599
+#EXTINF:-1,Stranger Things (2016)
+http://51.89.98.62:8080/lindaura/lindaura/42943
+#EXTINF:-1,Studio Universal HD
+http://51.89.98.62:8080/lindaura/lindaura/43
